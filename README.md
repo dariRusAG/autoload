@@ -5,8 +5,8 @@
 Реализовать собственную функцию автозагрузки классов по спецификации PSR-4:
 1. Анализ задачи. 
 2. Исследование источников: 
-  +ul https://www.php.net/manual/ru/language.oop5.autoload.php
-  +ul https://www.php-fig.org/psr/psr-4
+  2. https://www.php.net/manual/ru/language.oop5.autoload.php
+  2. https://www.php-fig.org/psr/psr-4
 3. Создание структуры проекта с несколькими классами, вложенными пространствами имён.
 4. Создание public/index.php с примерами обращений к классам. 
 5. Реализация и регистрация функции автозагрузки классов.
