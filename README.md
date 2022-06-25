@@ -1,5 +1,5 @@
 # Autoload
-## PSR-4 Autoloader для приложения на php ["Chat"](https://github.com/dariRusAG/chat.git)
+## PSR-4 Autoloader для приложения на php [Chat](https://github.com/dariRusAG/chat.git)
 
 *Задача* Реализовать собственную функцию автозагрузки классов по спецификации PSR-4.
 
